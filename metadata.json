@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Surfway Voice AI",
+  "description": "Next-generation Voice AI agent for the travel industry. Experience real-time conversation booking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
